@@ -18,4 +18,4 @@ Sử dụng hệ thống đa MCU sử dụng kết nối I2C để liên kết h
 
 ## Liên hệ
 1. Tác giả : Phạm Hoàng Nam
-3. Gmail : phn1712002@gmail.com 
+2. Gmail : phn1712002@gmail.com 
